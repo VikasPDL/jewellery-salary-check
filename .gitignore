@@ -1,0 +1,10 @@
+# Payroll / bank / production data must never be committed
+*.xls
+*.xlsx
+*.xlsm
+*.csv
+*.html
+*.htm
+
+__pycache__/
+.streamlit/secrets.toml
